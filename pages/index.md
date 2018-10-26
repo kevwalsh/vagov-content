@@ -140,6 +140,8 @@ news:
     title: VA Rapid Appeals
     href: https://www.blogs.va.gov/VAntage/48141/vas-rapid-appeals-modernization-program-ramp-now-open-appeals/
     description: Find out how to get a faster decision on a pending disability compensation appeal through the VA Rapid Appeals Modernization Program (RAMP).
+    
+<!--Test Comment-->
 ---
 {% comment %}
   The homepage has its own layout that is configurable via the settings above. Any content outside of that won't be processed.
