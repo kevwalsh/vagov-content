@@ -18,7 +18,7 @@ aliases:
 
 <div class="va-introtext">
 
-Did you suffer a traumatic injury while serving in the military? Our Servicemembers’ Group Life Insurance Traumatic Injury Protection (TSGLI) may help you with short-term financial support while you recover. Find out if you qualify—and how to manage your coverage.
+Did you suffer a traumatic injury while serving in the military? Our service members’ Group Life Insurance Traumatic Injury Protection (TSGLI) may help you with short-term financial support while you recover. Find out if you qualify—and how to manage your coverage.
 
 </div>
 
@@ -67,7 +67,7 @@ You can use this benefit no matter where the injury happened—whether you were 
 
 #### Who’s covered?
 
-Servicemembers covered by SGLI
+service members covered by SGLI
 
 </div>
 

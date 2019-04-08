@@ -74,7 +74,7 @@ Yes. You may qualify for enhanced eligibility status (meaning you’ll be placed
 - Receive financial compensation (payments) from VA for a service-connected disability
 - Were discharged for a disability resulting from something that happened to you in the line of duty
 - Were discharged for a disability that got worse in the line of duty
-- [Are a recently discharged combat Veteran](https://www.va.gov/HEALTHBENEFITS/apply/returning_servicemembers.asp)
+- [Are a recently discharged combat Veteran](https://www.va.gov/HEALTHBENEFITS/apply/returning_service members.asp)
 - Get a VA pension
 - Are a former Prisoner of War (POW)
 - Have received a Purple Heart

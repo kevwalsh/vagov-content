@@ -40,7 +40,7 @@ You may be able to get VMLI if you have a severe disability, and you meet all of
 
 #### Who’s covered?
 
-- Servicemembers
+- service members
 - Veterans
 
 </div>
